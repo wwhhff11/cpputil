@@ -1,9 +1,5 @@
 #include <iostream>
-#include "rapidjson/rapidjson.h"
-#include "rapidjson/document.h"
-#include "rapidjson/reader.h"
-#include "rapidjson/writer.h"
-#include "rapidjson/stringbuffer.h"
+#include "cpputil/jsonutil/jsonutil.h"
 
 /**
  * 解析json串
